@@ -1,3 +1,5 @@
+<!-- ********************************************************* HEADER ************************************************************************** -->
+
 <h1 align="center">  Open-Source-software-Development-methods</h2> <br>
 
 <em> Open Source software Development methods by <b> The Linux Foundation </b> 
@@ -5,6 +7,8 @@
 Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foundation, theoretical nuclear physicist </em>
 
 <br> <hr>
+
+<!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
 <h3> What is Open Source Software? </h3>
 
