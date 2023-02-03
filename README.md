@@ -13,7 +13,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 ## Table Of Content
 
 - [What is Open Source Software?](#What is Open Source Software?)
-- [Getting Started](#getting-started)
+- [Licensing Classification ](#-Licensing-Classification )
 - [Demo](#-demo)
 - [License](#license)
 
@@ -72,7 +72,7 @@ Advantages of Open-Source Software
         - Shows how good you are at mentoring and maintaining projects and sub-projects
     - Builds community of developers
 
- Licensing Classification 
+## Licensing Classification 
 
 - Permissive
     - Any code changes need not be available to recipients. 
