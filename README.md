@@ -169,14 +169,14 @@ The GitHub site was founded in 2008 and it has grown exponentially. In 2018, it
 Before wide use of GitHub and similar websites, projects needed to set up their own servers to host repositories, set things up, administer, make sure things are secure, et cetera. By using GitHub and others, a project can concentrate on its actual code and not having to deal with that sort of thing.
 
 ### Other providers include-
-- GitLab
-- GitKraken
-- LaunchPad
+- <em>GitLab</em>
+- <em>GitKraken</em>
+- <em>LaunchPad</em>
 
 There are two kinds of repositories on Github
-- Public
+- <em>Public</em> <br>
 For a large-scale open source project, people generally use a public repository. Anybody can get permission to copy or fork a repository, download its contents. Uploading into the repository and making contributions requires permission that has to be given by whoever owns the repository. 
-- Private 
+- <em>Private</em> <br>
 With a private one, the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it. (Comes under the pro version ). it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet.
 
 ### Notes
