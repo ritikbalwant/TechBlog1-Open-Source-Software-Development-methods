@@ -10,7 +10,19 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
-What is Open Source Software?
+## Table Of Content
+
+- [What is Open Source Software?](#What is Open Source Software?)
+- [Getting Started](#getting-started)
+- [Demo](#-demo)
+- [License](#license)
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+## What is Open Source Software?
 
 Source code is made available with a license which provides rights to:
 - Examine
