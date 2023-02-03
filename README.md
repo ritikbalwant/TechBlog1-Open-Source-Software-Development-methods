@@ -33,7 +33,7 @@ Without restriction on the user’s identity or purpose.
 ### Famous Open-Source Softwares:
 - Mozilla Firefox 
 - Blender
--  Wikipedia
+- Wikipedia
 - VLC Media Player
 - LibreOffice
 
@@ -175,15 +175,9 @@ Before wide use of GitHub and similar websites, projects needed to set up their
 
 There are two kinds of repositories on Github
 - Public
-- For a large-scale open source project, people generally use a public repository. Anybody can get permission to copy or fork a repository, download its contents. Uploading into the repository and making contributions requires permission that has to be given by whoever owns the repository. 
+For a large-scale open source project, people generally use a public repository. Anybody can get permission to copy or fork a repository, download its contents. Uploading into the repository and making contributions requires permission that has to be given by whoever owns the repository. 
 - Private 
-- With a private one, the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it. (Comes under the pro version ). it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet.
-
-
-
-
-
-
+With a private one, the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it. (Comes under the pro version ). it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet.
 
 ### Notes
 Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
@@ -194,6 +188,3 @@ While working on an OSS project, the best strategy is to:
 Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
 
 The goal is to promote healthy and rapid development from a large pool of contributors and users as possible.
-
-
-
