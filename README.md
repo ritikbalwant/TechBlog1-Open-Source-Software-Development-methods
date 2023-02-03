@@ -10,32 +10,6 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
-<h3> What is Open Source Software? </h3>
-
-Source code is made available with a license which provides rights to:
-- Examine
-- Modify
-- Redistribute
-Without restriction on the user’s identity or purpose.
-
-
- <h3> Licensing Classification </h3>
-
-- Permissive
-    - Any code changes need not be available to recipients. 
-    - Often offered by companies because they're reluctant to give all their changes out to other entities. 
-    - Eg BSD license Software
-- Restrictive
-    - Any code changes must be available to all recipients .
-    - Known as copyleft too
-    - Eg. GPL-licensed software (General Public License)
-    
-    
-    <hr>
-    🔷 Course: Open Source Development Methods 
-
-Lecturer: Jerry Cooperstein, Training Program Director at The Linux Foundation, theoretical nuclear physicist
-
 What is Open Source Software?
 
 Source code is made available with a license which provides rights to:
@@ -44,36 +18,13 @@ Source code is made available with a license which provides rights to:
 - Redistribute
 Without restriction on the user’s identity or purpose.
 
-
- Licensing Classification 
-
-- Permissive
-    - Any code changes need not be available to recipients. 
-    - Often offered by companies because they're reluctant to give all their changes out to other entities. 
-    - Eg BSD license Software
-- Restrictive
-    - Any code changes must be available to all recipients .
-    - Known as copyleft too
-    - Eg. GPL-licensed software (General Public License)
-There are several resources you can use to help you choose the most appropriate license for your project:
-
-* Choose an Open Source License: Sponsored by GitHub, this site walks you through the properties you must consider, helping you decide what license makes sense.
-
-
-
-What is Proprietary Software?
-
-Only software owners, those who distributed originally, have the full legal access to the source code. They may give trusted partners the rights to inspect the code, especially if they want to develop companion products, but they will be forced to sign a non-disclosure agreement or NDA, and the source remains closed to a wider audience.
-
-Now, if you use proprietary software, you have to sign a license and that license will restrict the rights. Such licenses generally say you can't redistribute the software.
-
 Famous Open-Source Softwares:
 - Mozilla Firefox 
 - Blender
 -  Wikipedia
 - VLC Media Player
 - LibreOffice
-- 
+
 Advantages of Open-Source Software
 
 - How Collaborative development lead to a better and more secure product
@@ -108,6 +59,28 @@ Advantages of Open-Source Software
         - Code shows how well you work and play with others
         - Shows how good you are at mentoring and maintaining projects and sub-projects
     - Builds community of developers
+
+ Licensing Classification 
+
+- Permissive
+    - Any code changes need not be available to recipients. 
+    - Often offered by companies because they're reluctant to give all their changes out to other entities. 
+    - Eg BSD license Software
+- Restrictive
+    - Any code changes must be available to all recipients .
+    - Known as copyleft too
+    - Eg. GPL-licensed software (General Public License)
+
+You can use the given link to help you choose the most appropriate license for your project:
+
+* Choose an Open Source License:  by GitHub, this site walks you through the properties you must consider, helping you decide what license makes sense.
+
+
+What is Proprietary Software?
+
+Only software owners, those who distributed originally, have the full legal access to the source code. They may give trusted partners the rights to inspect the code, especially if they want to develop companion products, but they will be forced to sign a non-disclosure agreement or NDA, and the source remains closed to a wider audience.
+
+Now, if you use proprietary software, you have to sign a license and that license will restrict the rights. Such licenses generally say you can't redistribute the software.
 
 Successful OSS Projects (a few)
 
@@ -175,10 +148,6 @@ What is CI/CD?
 designed to be a vendor-neutral home for the coalescence of significant projects in the CI/CD (continuous delivery and integration) universe.
 By establishing and documenting best practices, working out guidelines and making training available, the goal is to evangelize and spread CI/CD and DevOps practices and improve product release processes.
 
-Write about licenses
-Before diversity In oss
-
-
 Github and other hosting providers
 
 Open source projects need a place to host your code, so that people can have access to it. And so they can concentrate on their work and not having to host a repository server.
@@ -205,46 +174,6 @@ There are two kinds of repositories on Github
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
 
 It's important to contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
@@ -253,5 +182,6 @@ While working on an OSS project, the best strategy is to:
 Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
 
 The goal is to promote healthy and rapid development from a large pool of contributors and users as possible.
+
 
 
