@@ -10,19 +10,19 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
-## Table Of Content
+### Table Of Content
 
 - [What is Open Source Software?](#What is Open Source Software?)
 - [Licensing Classification ](#-Licensing-Classification )
 - [Demo](#-demo)
 - [License](#license)
 
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-## What is Open Source Software?
+### What is Open Source Software?
 
 Source code is made available with a license which provides rights to:
 - Examine
@@ -30,14 +30,14 @@ Source code is made available with a license which provides rights to:
 - Redistribute
 Without restriction on the user’s identity or purpose.
 
-Famous Open-Source Softwares:
+### Famous Open-Source Softwares:
 - Mozilla Firefox 
 - Blender
 -  Wikipedia
 - VLC Media Player
 - LibreOffice
 
-Advantages of Open-Source Software
+### Advantages of Open-Source Software
 
 - How Collaborative development lead to a better and more secure product
     - Enables to build better software
@@ -72,7 +72,7 @@ Advantages of Open-Source Software
         - Shows how good you are at mentoring and maintaining projects and sub-projects
     - Builds community of developers
 
-## Licensing Classification 
+### Licensing Classification 
 
 - Permissive
     - Any code changes need not be available to recipients. 
@@ -88,13 +88,13 @@ You can use the given link to help you choose the most appropriate license for y
 * Choose an Open Source License:  by GitHub, this site walks you through the properties you must consider, helping you decide what license makes sense.
 
 
-What is Proprietary Software?
+### What is Proprietary Software?
 
 Only software owners, those who distributed originally, have the full legal access to the source code. They may give trusted partners the rights to inspect the code, especially if they want to develop companion products, but they will be forced to sign a non-disclosure agreement or NDA, and the source remains closed to a wider audience.
 
 Now, if you use proprietary software, you have to sign a license and that license will restrict the rights. Such licenses generally say you can't redistribute the software.
 
-Successful OSS Projects (a few)
+### Successful OSS Projects (a few)
 
 - Linux Kernel 
     - Open-source project since its inception in 1991
@@ -119,7 +119,7 @@ Successful OSS Projects (a few)
         - Rust 
         - and more
 
-Contributing to OSS projects (Learn the previous history- research, knowledge and preparation is vital)
+### Contributing to OSS projects (Learn the previous history- research, knowledge and preparation is vital)
 
 - understand the ecosystem, the community and the methods of any project before diving in.
     - investigate the project, understand its style, what the workflow is, what the scope of the project is
@@ -140,7 +140,7 @@ Contributing to OSS projects (Learn the previous history- research, knowledge an
 - Be polite and respectful and avoid contentious discussions 
 - Don’t start with trivial patches (less important) such as changing white space in code and other things.
 
-Continuous Integration
+### Continuous Integration
 
 it's very important to have fixes, updates, and new software rolled out as quickly as possible, with as few bugs or security problems as possible. This is where the concept of Continuous Integration comes in.
 
@@ -155,12 +155,12 @@ Its mission is to help ensure long-term quality control, stability and facilitat
 Detailed reports are continuously updated in real time
 
 
-What is CI/CD? 
+### What is CI/CD? 
 
 designed to be a vendor-neutral home for the coalescence of significant projects in the CI/CD (continuous delivery and integration) universe.
 By establishing and documenting best practices, working out guidelines and making training available, the goal is to evangelize and spread CI/CD and DevOps practices and improve product release processes.
 
-Github and other hosting providers
+### Github and other hosting providers
 
 Open source projects need a place to host your code, so that people can have access to it. And so they can concentrate on their work and not having to host a repository server.
 
@@ -168,7 +168,7 @@ The GitHub site was founded in 2008 and it has grown exponentially. In 2018, it
 
 Before wide use of GitHub and similar websites, projects needed to set up their own servers to host repositories, set things up, administer, make sure things are secure, et cetera. By using GitHub and others, a project can concentrate on its actual code and not having to deal with that sort of thing.
 
-Other providers include-
+### Other providers include-
 - GitLab
 - GitKraken
 - LaunchPad
@@ -185,7 +185,7 @@ There are two kinds of repositories on Github
 
 
 
-
+### Notes
 Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
 
 It's important to contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
