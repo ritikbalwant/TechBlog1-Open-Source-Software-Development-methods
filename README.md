@@ -169,6 +169,7 @@ The GitHub site was founded in 2008 and it has grown exponentially. In 2018, it
 Before wide use of GitHub and similar websites, projects needed to set up their own servers to host repositories, set things up, administer, make sure things are secure, et cetera. By using GitHub and others, a project can concentrate on its actual code and not having to deal with that sort of thing.
 
 ### Other providers include-
+
 - GitLab
 - GitKraken
 - LaunchPad
@@ -180,6 +181,7 @@ For a large-scale open source project, people generally use a public repository
 With a private one, the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it. (Comes under the pro version ). it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet.
 
 ### Notes
+
 Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
 
 It's important to contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
