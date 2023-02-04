@@ -15,7 +15,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 ### List of Contents
 
 - [What is OSS](#what-is-open-source-software)
-- [Famous OSS](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#famous-open-source-softwares)
+- [Famous OSS](#famous-open-source-softwares)
 - [Advantages of OSS](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#advantages-of-open-source-software)
 - [Licensing Classification](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#licensing-classification)
 - [What is Propreitary Software](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#what-is-proprietary-software)
