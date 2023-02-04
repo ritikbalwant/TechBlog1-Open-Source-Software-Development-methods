@@ -8,7 +8,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <br> <hr> -->
 
-<img src="https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/d9c8289c592b9835f563fed0ce1df1392e931709/banner%20img%201-min.png" width="100%" >
+<img src="https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/4271e4197857c258031962387ca80d1d3805b2e9/banner%20img%201-min%20(1).png" width="100%" >
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
