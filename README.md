@@ -16,7 +16,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 - (#What is Open Source Software?)
 - [Licensing Classification ](#-Licensing-Classification )
-- [(#concluding-remarks)](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/main/README.md#concluding-remarks)
+- [(concluding-remarks)](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/main/README.md#concluding-remarks)
 - [License](#license)
 
 ### What is Open Source Software?
