@@ -184,11 +184,9 @@ With a private one, the owner restricts access to a named list of collaborators
 
 ### Concluding Remarks
 
-Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
-
-It's important to contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
+The goal is to promote healthy and rapid development from a large pool of contributors and users as possible.
 
 While working on an OSS project, the best strategy is to:
-Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
+Contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
 
-The goal is to promote healthy and rapid development from a large pool of contributors and users as possible.
+Thankyou for you time. :)
