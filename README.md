@@ -1,14 +1,14 @@
 <!-- ********************************************************* HEADER ************************************************************************** -->
 
-<h1 align="center">  📎 Open-Source-Software-Development-methods</h2> <br>
+<!-- <h1 align="center">  📎 Open-Source-Software-Development-methods</h2> <br>
 
 <em> Open Source software Development methods by <b> The Linux Foundation </b> 
 
 Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foundation, theoretical nuclear physicist </em>
 
-<br> <hr>
+<br> <hr> -->
 
-https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/d9c8289c592b9835f563fed0ce1df1392e931709/banner%20img%201-min.png
+<img src="https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/d9c8289c592b9835f563fed0ce1df1392e931709/banner%20img%201-min.png" width="100%" >
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
