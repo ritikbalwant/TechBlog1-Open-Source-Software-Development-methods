@@ -182,7 +182,7 @@ For a large-scale open source project, people generally use a public repository
 - Private <br>
 With a private one, the owner restricts access to a named list of collaborators and only those people can actually use the repository and be able to update it. (Comes under the pro version ). it's used by many organizations for proprietary code or for even open source code that they're not quite ready to open up yet.
 
-### Notes
+### Concluding Remarks
 
 Remember, most open source projects start out nicely and never really take off. It takes a particular opportunity of a need for project, as well as good governance and good contributors to make something succeed.
 
