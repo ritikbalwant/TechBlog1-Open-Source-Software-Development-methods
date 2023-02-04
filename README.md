@@ -12,17 +12,12 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
-### Table Of Content
+### List of Contents
 
 - [What is Open Source Software?](#What is Open Source Software?)
 - [Licensing Classification ](#-Licensing-Classification )
 - [Demo](#-demo)
 - [License](#license)
-
-### License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 ### What is Open Source Software?
 
@@ -148,14 +143,12 @@ it's very important to have fixes, updates, and new software rolled out as quick
 
 What Continuous Integration techniques do is they ensure you test constantly and frequently, that any problems which develop are quickly resolved, and developers and users all stay on the same page.
 
-
 The Linux kernel development community employs a very robust Continuous Integration project, kernelci. While it was originally created by Linaro, it is now an independent Linux Foundation project.
 Its mission is to help ensure long-term quality control, stability and facilitate maintenance of the Linux kernel. It works with:
 * The kernel developer community, giving them a tool to use in their daily workflow as needed.
 * Hardware manufacturers to help them stay close to kernel changes and development.
 * Helping downstream developers by performing solid upstream testing.
 Detailed reports are continuously updated in real time
-
 
 ### What is CI/CD? 
 
