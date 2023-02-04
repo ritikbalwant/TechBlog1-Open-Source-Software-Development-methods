@@ -22,7 +22,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 - [Successful OSS Projects](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#successful-oss-projects-a-few)
 - [Contributing to OSS Projects](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#contributing-to-oss-projects-learn-the-previous-history--research-knowledge-and-preparation-is-vital)
 - [Continuous Integration](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#continuous-integration)
-- [What is CI/CD](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#what-is-cicd)
+- [What is CI/CD](#what-is-cicd)
 - [Github and other hosting providers](#github-and-other-hosting-providers)
 - [Concluding Remarks](#concluding-remarks)
 
