@@ -8,6 +8,8 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 
 <br> <hr>
 
+https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods/blob/d9c8289c592b9835f563fed0ce1df1392e931709/banner%20img%201-min.png
+
 <!-- ********************************************************* BODY BEGINS ************************************************************************** -->
 
 ### Table Of Content
