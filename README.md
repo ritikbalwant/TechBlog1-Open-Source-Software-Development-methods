@@ -18,7 +18,7 @@ Lecturer: <b>Jerry Cooperstein </b>, Training Program Director at The Linux Foun
 - [Famous OSS](#famous-open-source-softwares)
 - [Advantages of OSS](#advantages-of-open-source-software)
 - [Licensing Classification](#licensing-classification)
-- [What is Propreitary Software](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#what-is-proprietary-software)
+- [What is Propreitary Software](#what-is-proprietary-software)
 - [Successful OSS Projects](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#successful-oss-projects-a-few)
 - [Contributing to OSS Projects](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#contributing-to-oss-projects-learn-the-previous-history--research-knowledge-and-preparation-is-vital)
 - [Continuous Integration](https://github.com/ritikbalwant/CourseNotes-Open-Source-software-Development-methods#continuous-integration)
