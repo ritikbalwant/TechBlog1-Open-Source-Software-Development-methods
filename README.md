@@ -188,5 +188,3 @@ The goal is to promote healthy and rapid development from a large pool of contri
 
 While working on an OSS project, the best strategy is to:
 Contribute your work in digestible pieces, in small meals, not in very large code dumps. People get overloaded, and overwhelmed when you give them a lot of code at once and it's very difficult to test individual parts if a lot of things are done at once.
-
-Thankyou for you time. :)
